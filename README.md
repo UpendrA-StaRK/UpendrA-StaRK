@@ -73,17 +73,18 @@ _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-St
 ## GitHub Insights
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=UpendrA-StaRK&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpendrA-StaRK&layout=compact&theme=dark" alt="Top Languages" />
-  <br>
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UpendrA-StaRK&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UpendrA-StaRK&theme=react-dark" alt="GitHub Activity Graph" />
+  <table>
+    <tr>
+      <td align="center">
+        <!-- GitHub Stats with dark theme -->
+        <img src="https://github-readme-stats.vercel.app/api?username=UpendrA-StaRK&show_icons=true&theme=dark" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <!-- GitHub Activity Graph in green theme -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=UpendrA-StaRK&theme=green" alt="GitHub Activity Graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
