@@ -62,9 +62,9 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
 
 | **Project Name**    | **Description**                                             | **Tech Stack**                 | **Repo**                                                | **Live**       |
 |---------------------|-------------------------------------------------------------|--------------------------------|---------------------------------------------------------|----------------|
-| **Project Alpha**   | A cutting-edge solution addressing key challenges in X.    | React, Node.js, MongoDB        | [Repo](https://github.com/UpendrA-StaRK/ProjectAlpha)     | [🔗 Live](https://projectalpha.example.com) |
-| **Project Beta**    | An innovative tool designed to streamline Y processes.     | Python, Django, PostgreSQL     | [Repo](https://github.com/UpendrA-StaRK/ProjectBeta)      | [🔗 Live](https://projectbeta.example.com)  |
-| **Project Gamma**   | A mobile app focused on enhancing Z experiences.            | Flutter, Firebase              | [Repo](https://github.com/UpendrA-StaRK/ProjectGamma)     | [🔗 Live](https://projectgamma.example.com) |
+| **Project Alpha**   | A cutting-edge solution addressing key challenges in X.    | React, Node.js, MongoDB        | [Repo](https://github.com/UpendrA-StaRK/ProjectAlpha)     | [🔗](https://projectalpha.example.com) |
+| **Project Beta**    | An innovative tool designed to streamline Y processes.     | Python, Django, PostgreSQL     | [Repo](https://github.com/UpendrA-StaRK/ProjectBeta)      | [🔗](https://projectbeta.example.com)  |
+| **Project Gamma**   | A mobile app focused on enhancing Z experiences.            | Flutter, Firebase              | [Repo](https://github.com/UpendrA-StaRK/ProjectGamma)     | [🔗](https://projectgamma.example.com) |
 
 _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-StaRK)._
 
@@ -108,4 +108,3 @@ _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-St
   </a>
 </div>
 
-<p align="center"><em>Crafted with ❤️, passion, and modern tech. Enjoy your stay!</em></p>
