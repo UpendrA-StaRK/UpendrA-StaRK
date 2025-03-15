@@ -74,25 +74,25 @@ _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-St
 
 <div align="center">
   <table>
-    <!-- Row 1: Main Stats and Activity Graph -->
+    <!-- Row 1: Main Stats and Activity Graph (1:1 ratio) -->
     <tr>
-      <td align="center" width="40%">
-        <!-- Main GitHub Stats card with transparent bg (PRs and issues hidden) -->
+      <td align="center" width="50%">
+        <!-- Main GitHub Stats (transparent bg, hiding PRs & issues) -->
         <img src="https://github-readme-stats.vercel.app/api?username=UpendrA-StaRK&show_icons=true&theme=dark&hide=prs,issues&bg_color=00000000" alt="GitHub Stats" />
       </td>
-      <td align="center" width="60%">
-        <!-- GitHub Activity Graph with green theme and transparent bg -->
+      <td align="center" width="50%">
+        <!-- GitHub Activity Graph (green theme, transparent bg) -->
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=UpendrA-StaRK&theme=green&bg_color=00000000" alt="GitHub Activity Graph" />
       </td>
     </tr>
-    <!-- Row 2: GitHub Streak and Top Languages -->
+    <!-- Row 2: Trophy and Top Languages (1:1 ratio) -->
     <tr>
-      <td align="center" width="40%">
-        <!-- GitHub Streak Stats card with additional parameters for visibility -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=UpendrA-StaRK&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" alt="GitHub Streak Stats" />
+      <td align="center" width="50%">
+        <!-- GitHub Trophy widget -->
+        <img src="https://github-profile-trophy.vercel.app/?username=UpendrA-StaRK&theme=onedark" alt="GitHub Trophies" />
       </td>
-      <td align="center" width="60%">
-        <!-- Top Languages widget with transparent bg -->
+      <td align="center" width="50%">
+        <!-- Top Languages widget (transparent bg) -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpendrA-StaRK&layout=compact&theme=dark&bg_color=00000000" alt="Top Languages" />
       </td>
     </tr>
