@@ -1,20 +1,20 @@
 <div align="center">
-  <h1>Hello, I'm [Your Name] 👋</h1>
-  <p><strong>Innovator • Developer • Tech Enthusiast</strong></p>
-  <img src="[Your Profile Image URL]" alt="Profile Image" width="150" style="border-radius: 50%;" />
+  <h1>Hello, I'm Upendra StaRK 👋</h1>
+  <p><strong>Innovator • Developer • Open-Source Enthusiast</strong></p>
+  <img src="https://github.com/UpendrA-StaRK.png" alt="Profile Image" width="150" style="border-radius: 50%;" />
 </div>
 
 ---
 
 ## About Me
 
-I'm a creative developer passionate about designing and building innovative digital solutions. I love exploring new technologies and turning ideas into reality—whether that’s a dynamic web app or a cutting-edge mobile project.
+I'm a passionate developer with a deep interest in open source, innovative technologies, and building robust digital solutions. I enjoy exploring new frameworks and continuously learning to improve my skills.
 
-- 🔭 **Current Project:** [Your Project Name] – [Brief Description]
-- 🌱 **Learning:** [New Technology/Framework]
-- 👯 **Collaborating on:** Exciting projects and ideas
-- 📫 **Reach me:** [your.email@example.com](mailto:your.email@example.com)
-- ⚡ **Fun fact:** [Your Fun Fact Here]
+- 🔭 **Current Project:** Various Open Source Projects – Working on cutting-edge solutions and community-driven initiatives.
+- 🌱 **Learning:** Advanced web development & cloud computing.
+- 👯 **Collaborating on:** Exciting projects and innovative ideas.
+- 📫 **Reach me:** [upendra@example.com](mailto:upendra@example.com)
+- ⚡ **Fun fact:** I love coding, coffee, and staying updated on the latest tech trends.
 
 ---
 
@@ -60,11 +60,11 @@ I'm a creative developer passionate about designing and building innovative digi
 
 ## Projects Showcase
 
-| **Project Name**    | **Description**                                     | **Tech Stack**                                                                                          | **Link**    |
-|---------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------|
-| **Project Alpha**   | A brief overview of what Project Alpha does.        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)               | [Repo](#)   |
-| **Project Beta**    | An insight into the features of Project Beta.       | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)                  | [Repo](#)   |
-| **Project Gamma**   | Highlights of the work behind Project Gamma.        | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)            | [Repo](#)   |
+| **Project Name**    | **Description**                                                                                 | **Tech Stack**                                           | **Repo**                                                | **Live**                                 |
+|---------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------|------------------------------------------|
+| **WebAppX**         | A responsive web application built with React and Node.js.                                      | React, Node.js, Express, MongoDB                         | [Repo](https://github.com/UpendrA-StaRK/WebAppX)          | [🔗 Live](https://webappx.example.com)     |
+| **MobilePro**       | A cross-platform mobile application developed in Flutter for a seamless user experience.         | Flutter, Dart                                            | [Repo](https://github.com/UpendrA-StaRK/MobilePro)        | [🔗 Live](https://mobilepro.example.com)   |
+| **DataInsight**     | A data analysis and visualization tool built with Python and Plotly to uncover actionable insights.| Python, Plotly, Pandas                                   | [Repo](https://github.com/UpendrA-StaRK/DataInsight)      | [🔗 Live](https://datainsight.example.com)   |
 
 _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-StaRK)._
 
@@ -85,13 +85,9 @@ _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-St
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=UpendrA-StaRK&theme=green&bg_color=00000000" alt="GitHub Activity Graph" />
       </td>
     </tr>
-    <!-- Row 2: Trophy and Top Languages (1:1 ratio) -->
+    <!-- Row 2: Top Languages widget spanning full width -->
     <tr>
-      <td align="center" width="50%">
-        <!-- GitHub Trophy widget -->
-        <img src="https://github-profile-trophy.vercel.app/?username=UpendrA-StaRK&theme=onedark" alt="GitHub Trophies" />
-      </td>
-      <td align="center" width="50%">
+      <td align="center" colspan="2">
         <!-- Top Languages widget (transparent bg) -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpendrA-StaRK&layout=compact&theme=dark&bg_color=00000000" alt="Top Languages" />
       </td>
@@ -104,13 +100,13 @@ _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-St
 ## Let's Connect
 
 <div align="center">
-  <a href="[Your LinkedIn URL]" target="_blank">
+  <a href="https://www.linkedin.com/in/upendra-stark" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[Your Twitter URL]" target="_blank">
+  <a href="https://twitter.com/upendra_stark" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="[Your Portfolio URL]" target="_blank">
+  <a href="https://upendrastark.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
