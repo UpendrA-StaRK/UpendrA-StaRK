@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Upendra StaRK 👋</h1>
+  <h1>Hello, I'm Upendra Paluru 👋</h1>
   <p><strong>Innovator • Developer • Open-Source Enthusiast</strong></p>
   <img src="https://github.com/UpendrA-StaRK.png" alt="Profile Image" width="150" style="border-radius: 50%;" />
 </div>
@@ -8,13 +8,13 @@
 
 ## About Me
 
-I'm a passionate developer with a deep interest in open source, innovative technologies, and building robust digital solutions. I enjoy exploring new frameworks and continuously learning to improve my skills.
+I'm a passionate developer with a deep interest in open source and cutting-edge technologies. I enjoy designing robust digital solutions and exploring new trends. I’m a fast learner, always eager to expand my skill set and push creative boundaries.
 
-- 🔭 **Current Project:** Various Open Source Projects – Working on cutting-edge solutions and community-driven initiatives.
-- 🌱 **Learning:** Advanced web development & cloud computing.
+- 🔭 **Current Project:** **Mapify** – The MAPS of NIT DURGAPUR (Under Development)
+- 🌱 **Learning:** A fast learner, always exploring new trends and embracing every opportunity to expand my skill set.
 - 👯 **Collaborating on:** Exciting projects and innovative ideas.
-- 📫 **Reach me:** [upendra@example.com](mailto:upendra@example.com)
-- ⚡ **Fun fact:** I love coding, coffee, and staying updated on the latest tech trends.
+- 📫 **Reach me:** [paluruupendra88@gmail.com](mailto:paluruupendra88@gmail.com)
+- ⚡ **Fun fact:** I'm passionate about machine learning—experimenting with innovative models to predict trends and even create digital art.
 
 ---
 
@@ -60,11 +60,9 @@ I'm a passionate developer with a deep interest in open source, innovative techn
 
 ## Projects Showcase
 
-| **Project Name**    | **Description**                                                                                 | **Tech Stack**                                           | **Repo**                                                | **Live**                                 |
-|---------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------|------------------------------------------|
-| **WebAppX**         | A responsive web application built with React and Node.js.                                      | React, Node.js, Express, MongoDB                         | [Repo](https://github.com/UpendrA-StaRK/WebAppX)          | [🔗 Live](https://webappx.example.com)     |
-| **MobilePro**       | A cross-platform mobile application developed in Flutter for a seamless user experience.         | Flutter, Dart                                            | [Repo](https://github.com/UpendrA-StaRK/MobilePro)        | [🔗 Live](https://mobilepro.example.com)   |
-| **DataInsight**     | A data analysis and visualization tool built with Python and Plotly to uncover actionable insights.| Python, Plotly, Pandas                                   | [Repo](https://github.com/UpendrA-StaRK/DataInsight)      | [🔗 Live](https://datainsight.example.com)   |
+| **Project Name** | **Description**                                                    | **Tech Stack** | **Repo**       | **Live**       |
+|------------------|--------------------------------------------------------------------|----------------|----------------|----------------|
+| **Mapify**       | The MAPS of NIT DURGAPUR – Under Development                       | N/A            | Coming Soon    | Coming Soon    |
 
 _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-StaRK)._
 
