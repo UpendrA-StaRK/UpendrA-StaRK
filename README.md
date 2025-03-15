@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello, I'm [Your Name] 👋</h1>
   <p><strong>Innovator • Developer • Tech Enthusiast</strong></p>
-  <img src="https://via.placeholder.com/150" alt="Profile Image" width="150" style="border-radius: 50%;" />
+  <img src="[Your Profile Image URL]" alt="Profile Image" width="150" style="border-radius: 50%;" />
 </div>
 
 ---
@@ -10,11 +10,11 @@
 
 I'm a creative developer passionate about designing and building innovative digital solutions. I love exploring new technologies and turning ideas into reality—whether that’s a dynamic web app or a cutting-edge mobile project.
 
-- 🔭 **Current Project:** [Your Project Name]
+- 🔭 **Current Project:** [Your Project Name] – [Brief Description]
 - 🌱 **Learning:** [New Technology/Framework]
 - 👯 **Collaborating on:** Exciting projects and ideas
 - 📫 **Reach me:** [your.email@example.com](mailto:your.email@example.com)
-- ⚡ **Fun fact:** I [insert a fun fact, e.g., "am a coffee aficionado and a night owl"]
+- ⚡ **Fun fact:** [Your Fun Fact Here]
 
 ---
 
@@ -66,16 +66,16 @@ I'm a creative developer passionate about designing and building innovative digi
 | **Project Beta**    | An insight into the features of Project Beta.        | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)                  | [Repo](#)   |
 | **Project Gamma**   | Highlights of the work behind Project Gamma.         | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)            | [Repo](#)   |
 
-_For more projects, visit my [GitHub repositories](https://github.com/yourusername)._
+_For more projects, visit my [GitHub repositories](https://github.com/UpendrA-StaRK)._
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UpendrA-StaRK&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpendrA-StaRK&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---
@@ -83,13 +83,13 @@ _For more projects, visit my [GitHub repositories](https://github.com/youruserna
 ## Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="[Your LinkedIn URL]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="[Your Twitter URL]" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="[Your Portfolio URL]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
