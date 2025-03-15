@@ -62,9 +62,9 @@ I'm a creative developer passionate about designing and building innovative digi
 
 | **Project Name**    | **Description**                                     | **Tech Stack**                                                                                          | **Link**    |
 |---------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------|
-| **Project Alpha**   | A brief overview of what Project Alpha does.         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)               | [Repo](#)   |
-| **Project Beta**    | An insight into the features of Project Beta.        | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)                  | [Repo](#)   |
-| **Project Gamma**   | Highlights of the work behind Project Gamma.         | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)            | [Repo](#)   |
+| **Project Alpha**   | A brief overview of what Project Alpha does.        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)               | [Repo](#)   |
+| **Project Beta**    | An insight into the features of Project Beta.       | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)                  | [Repo](#)   |
+| **Project Gamma**   | Highlights of the work behind Project Gamma.        | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)            | [Repo](#)   |
 
 _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-StaRK)._
 
@@ -75,13 +75,13 @@ _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-St
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <!-- GitHub Stats with dark theme -->
-        <img src="https://github-readme-stats.vercel.app/api?username=UpendrA-StaRK&show_icons=true&theme=dark" alt="GitHub Stats" />
+      <td align="center" width="33%">
+        <!-- GitHub Stats: dark theme, transparent bg, hide PRs and issues -->
+        <img src="https://github-readme-stats.vercel.app/api?username=UpendrA-StaRK&show_icons=true&theme=dark&hide=prs,issues&bg_color=00000000" alt="GitHub Stats" />
       </td>
-      <td align="center">
-        <!-- GitHub Activity Graph in green theme -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=UpendrA-StaRK&theme=green" alt="GitHub Activity Graph" />
+      <td align="center" width="67%">
+        <!-- GitHub Activity Graph: green theme, transparent bg -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=UpendrA-StaRK&theme=green&bg_color=00000000" alt="GitHub Activity Graph" />
       </td>
     </tr>
   </table>
