@@ -75,12 +75,17 @@ _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-St
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <!-- GitHub Stats: dark theme, transparent bg, hide PRs and issues -->
+      <!-- Left Column: 40% width (ratio 2/5) with GitHub Stats & Streak -->
+      <td align="center" width="40%">
+        <!-- Main GitHub Stats card (hiding PRs & issues) with transparent bg -->
         <img src="https://github-readme-stats.vercel.app/api?username=UpendrA-StaRK&show_icons=true&theme=dark&hide=prs,issues&bg_color=00000000" alt="GitHub Stats" />
+        <br>
+        <!-- GitHub Streak Stats card with transparent bg -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=UpendrA-StaRK&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Streak" />
       </td>
-      <td align="center" width="67%">
-        <!-- GitHub Activity Graph: green theme, transparent bg -->
+      <!-- Right Column: 60% width (ratio 3/5) with Activity Graph -->
+      <td align="center" width="60%">
+        <!-- GitHub Activity Graph with green theme and transparent bg -->
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=UpendrA-StaRK&theme=green&bg_color=00000000" alt="GitHub Activity Graph" />
       </td>
     </tr>
