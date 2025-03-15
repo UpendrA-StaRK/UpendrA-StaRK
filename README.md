@@ -1,35 +1,97 @@
 <div align="center">
-  <h1>Hi, I'm [Your Name] 🚀</h1>
-  <p>Software Developer | Open Source Enthusiast</p>
+  <h1>Hello, I'm [Your Name] 👋</h1>
+  <p><strong>Innovator • Developer • Tech Enthusiast</strong></p>
+  <img src="https://via.placeholder.com/150" alt="Profile Image" width="150" style="border-radius: 50%;" />
 </div>
 
-## About Me  
-I love crafting quality code and building projects that make an impact. Always eager to learn and collaborate.  
+---
 
-- 💻 Current Project: **[Project Name]**  
-- 🌱 Learning: **[New Tech]**  
-- 📫 Contact: <your.email@example.com>  
+## About Me
 
-## Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+I'm a creative developer passionate about designing and building innovative digital solutions. I love exploring new technologies and turning ideas into reality—whether that’s a dynamic web app or a cutting-edge mobile project.
 
-## Projects  
-| Project | Description | Link |  
-|---------|------------|------|  
-| Project One | Short description. | [Repo](#) |  
-| Project Two | Short description. | [Repo](#) |  
+- 🔭 **Current Project:** [Your Project Name]
+- 🌱 **Learning:** [New Technology/Framework]
+- 👯 **Collaborating on:** Exciting projects and ideas
+- 📫 **Reach me:** [your.email@example.com](mailto:your.email@example.com)
+- ⚡ **Fun fact:** I [insert a fun fact, e.g., "am a coffee aficionado and a night owl"]
 
-## GitHub Stats  
+---
+
+## My Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Projects Showcase
+
+| **Project Name**    | **Description**                                     | **Tech Stack**                                                                                          | **Link**    |
+|---------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------|
+| **Project Alpha**   | A brief overview of what Project Alpha does.         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)               | [Repo](#)   |
+| **Project Beta**    | An insight into the features of Project Beta.        | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)                  | [Repo](#)   |
+| **Project Gamma**   | Highlights of the work behind Project Gamma.         | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)            | [Repo](#)   |
+
+_For more projects, visit my [GitHub repositories](https://github.com/yourusername)._
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" alt="GitHub Stats"/>  
-  <br>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" alt="Top Languages"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=about.me&logoColor=white)](https://yourwebsite.com)  
+---
+
+## Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<p align="center"><em>Crafted with ❤️, passion, and modern tech. Enjoy your stay!</em></p>
