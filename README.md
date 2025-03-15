@@ -74,19 +74,26 @@ _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-St
 
 <div align="center">
   <table>
+    <!-- Row 1: Main Stats and Activity Graph -->
     <tr>
-      <!-- Left Column: 40% width (ratio 2/5) with GitHub Stats & Streak -->
       <td align="center" width="40%">
-        <!-- Main GitHub Stats card (hiding PRs & issues) with transparent bg -->
+        <!-- Main GitHub Stats card with transparent bg (PRs and issues hidden) -->
         <img src="https://github-readme-stats.vercel.app/api?username=UpendrA-StaRK&show_icons=true&theme=dark&hide=prs,issues&bg_color=00000000" alt="GitHub Stats" />
-        <br>
-        <!-- GitHub Streak Stats card with transparent bg -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=UpendrA-StaRK&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Streak" />
       </td>
-      <!-- Right Column: 60% width (ratio 3/5) with Activity Graph -->
       <td align="center" width="60%">
         <!-- GitHub Activity Graph with green theme and transparent bg -->
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=UpendrA-StaRK&theme=green&bg_color=00000000" alt="GitHub Activity Graph" />
+      </td>
+    </tr>
+    <!-- Row 2: GitHub Streak and Top Languages -->
+    <tr>
+      <td align="center" width="40%">
+        <!-- GitHub Streak Stats card with additional parameters for visibility -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=UpendrA-StaRK&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" alt="GitHub Streak Stats" />
+      </td>
+      <td align="center" width="60%">
+        <!-- Top Languages widget with transparent bg -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpendrA-StaRK&layout=compact&theme=dark&bg_color=00000000" alt="Top Languages" />
       </td>
     </tr>
   </table>
