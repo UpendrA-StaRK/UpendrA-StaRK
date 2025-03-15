@@ -10,11 +10,11 @@
 
 I'm a passionate developer with a deep interest in open source and cutting-edge technologies. I enjoy designing robust digital solutions and exploring new trends. I’m a fast learner, always eager to expand my skill set and push creative boundaries.
 
-- 🔭 **Current Project:** **Mapify** – The MAPS of NIT DURGAPUR (Under Development)
+- 🔭 **Current Projects:** Various Open Source Initiatives & Ongoing Experiments
 - 🌱 **Learning:** A fast learner, always exploring new trends and embracing every opportunity to expand my skill set.
 - 👯 **Collaborating on:** Exciting projects and innovative ideas.
 - 📫 **Reach me:** [paluruupendra88@gmail.com](mailto:paluruupendra88@gmail.com)
-- ⚡ **Fun fact:** I'm passionate about machine learning—experimenting with innovative models to predict trends and even create digital art.
+- ⚡ **Fun fact:** I'm passionate about machine learning—experimenting with innovative models to predict trends and create digital art.
 
 ---
 
@@ -60,9 +60,11 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
 
 ## Projects Showcase
 
-| **Project Name** | **Description**                                                    | **Tech Stack** | **Repo**       | **Live**       |
-|------------------|--------------------------------------------------------------------|----------------|----------------|----------------|
-| **Mapify**       | The MAPS of NIT DURGAPUR – Under Development                       | N/A            | Coming Soon    | Coming Soon    |
+| **Project Name**    | **Description**                                             | **Tech Stack**                 | **Repo**                                                | **Live**       |
+|---------------------|-------------------------------------------------------------|--------------------------------|---------------------------------------------------------|----------------|
+| **Project Alpha**   | A cutting-edge solution addressing key challenges in X.    | React, Node.js, MongoDB        | [Repo](https://github.com/UpendrA-StaRK/ProjectAlpha)     | [🔗 Live](https://projectalpha.example.com) |
+| **Project Beta**    | An innovative tool designed to streamline Y processes.     | Python, Django, PostgreSQL     | [Repo](https://github.com/UpendrA-StaRK/ProjectBeta)      | [🔗 Live](https://projectbeta.example.com)  |
+| **Project Gamma**   | A mobile app focused on enhancing Z experiences.            | Flutter, Firebase              | [Repo](https://github.com/UpendrA-StaRK/ProjectGamma)     | [🔗 Live](https://projectgamma.example.com) |
 
 _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-StaRK)._
 
@@ -98,7 +100,7 @@ _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-St
 ## Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/upendra-stark" target="_blank">
+  <a href="https://www.linkedin.com/in/upendra-paluru/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/upendra_stark" target="_blank">
