@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello, I'm Upendra Paluru 👋</h1>
-  <p><strong>Innovator • Developer • Open-Source Enthusiast</strong></p>
+  <p><strong>Innovator | Full Stack Developer | AI Enthusiast</strong></p>
   <img src="https://github.com/UpendrA-StaRK.png" alt="Profile Image" width="150" style="border-radius: 50%;" />
 </div>
 
