@@ -14,8 +14,6 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
 - 🌱 **Learning:** A fast learner, always exploring new trends and embracing every opportunity to expand my skill set.
 - 👯 **Collaborating on:** Exciting projects and innovative ideas.
 - 📫 **Reach me:** [paluruupendra88@gmail.com](mailto:paluruupendra88@gmail.com)
-- ⚡ **Fun fact:** I'm passionate about machine learning—experimenting with innovative models to predict trends and create digital art.
-
 ---
 
 ## My Tech Stack
