@@ -14,6 +14,7 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
 - 🌱 **Learning:** A fast learner, always exploring new trends and embracing every opportunity to expand my skill set.
 - 👯 **Collaborating on:** Exciting projects and innovative ideas.
 - 📫 **Reach me:** [paluruupendra88@gmail.com](mailto:paluruupendra88@gmail.com)
+
 ---
 
 ## My Tech Stack
@@ -58,13 +59,13 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
 
 ## Projects Showcase
 
-| **Project Name**      | **Description**                                                       | **Tech Stack**                      | **Repo**                                                               | **Live**                                                       |
-|-----------------------|-----------------------------------------------------------------------|-------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
-| **MedEase WebApp**    | Disease Prediction and Specialist Recommendation System             | Python, Streamlit, Machine Learning | [Repo](https://github.com/UpendrA-StaRK/MedEase_WebApp)                | [🔗](https://medeasewebapp-rshiqykq54d4cgj4285ahp.streamlit.app/) |
-| **Project Beta**      | An innovative tool designed to streamline Y processes.               | Python, Django, PostgreSQL          | [Repo](https://github.com/UpendrA-StaRK/ProjectBeta)                     | [🔗](https://projectbeta.example.com)                     |
-| **Project Gamma**     | A mobile app focused on enhancing Z experiences.                      | Flutter, Firebase                   | [Repo](https://github.com/UpendrA-StaRK/ProjectGamma)                    | [🔗](https://projectgamma.example.com)                    |
+| **Project Name**      | **Description**                                                       | **Tech Stack**                                      | **Repo**                                                               | **Live**                                                       |
+|-----------------------|-----------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
+| **MedEase WebApp**    | Disease Prediction and Specialist Recommendation System             | Python, Streamlit, Machine Learning                | [Repo](https://github.com/UpendrA-StaRK/MedEase_WebApp)                | [🔗](https://medeasewebapp-rshiqykq54d4cgj4285ahp.streamlit.app/) |
+| **AI-Powered Size Chart Generator** | AI-driven apparel size chart generator for sellers   | Python, Streamlit, Machine Learning, Clustering    | [Repo](https://github.com/UpendrA-StaRK/Flipkart-Grid-6.0/)  | [🔗](https://upendra-stark-flipkart-grid-6-0-app-3qsoh7.streamlit.app/) |
+| **Project Gamma**     | A mobile app focused on enhancing Z experiences.                      | Flutter, Firebase                                  | [Repo](https://github.com/UpendrA-StaRK/ProjectGamma)                    | [🔗](https://projectgamma.example.com)                    |
 
-_For more projects, visit my GitHub repositories](https://github.com/UpendrA-StaRK)._
+_For more projects, visit my [GitHub repositories](https://github.com/UpendrA-StaRK)._
 
 ---
 
@@ -72,21 +73,16 @@ _For more projects, visit my GitHub repositories](https://github.com/UpendrA-Sta
 
 <div align="center">
   <table>
-    <!-- Row 1: Main Stats and Activity Graph (1:1 ratio) -->
     <tr>
       <td align="center" width="50%">
-        <!-- Main GitHub Stats (transparent bg, hiding PRs & issues) -->
         <img src="https://github-readme-stats.vercel.app/api?username=UpendrA-StaRK&show_icons=true&theme=dark&hide=prs,issues&bg_color=00000000" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <!-- GitHub Activity Graph (green theme, transparent bg) -->
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=UpendrA-StaRK&theme=green&bg_color=00000000" alt="GitHub Activity Graph" />
       </td>
     </tr>
-    <!-- Row 2: Top Languages widget spanning full width -->
     <tr>
       <td align="center" colspan="2">
-        <!-- Top Languages widget (transparent bg) -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpendrA-StaRK&layout=compact&theme=dark&bg_color=00000000" alt="Top Languages" />
       </td>
     </tr>
