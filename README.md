@@ -10,7 +10,7 @@
 
 I'm a passionate developer with a deep interest in open source and cutting-edge technologies. I enjoy designing robust digital solutions and exploring new trends. I’m a fast learner, always eager to expand my skill set and push creative boundaries.
 
-- 🔭 **Current Projects:** Various Open Source Initiatives & Ongoing Experiments  
+- 🔭 **Current Projects:**  The MAPS of NIT DURGAPUR (Under Development) 
 - 🌱 **Learning:** A fast learner, always exploring new trends and embracing every opportunity to expand my skill set.  
 - 👯 **Collaborating on:** Exciting projects and innovative ideas.  
 - 📫 **Reach me:** [paluruupendra88@gmail.com](mailto:paluruupendra88@gmail.com)  
