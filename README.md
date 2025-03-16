@@ -10,10 +10,10 @@
 
 I'm a passionate developer with a deep interest in open source and cutting-edge technologies. I enjoy designing robust digital solutions and exploring new trends. I’m a fast learner, always eager to expand my skill set and push creative boundaries.
 
-- 🔭 **Current Projects:** Various Open Source Initiatives & Ongoing Experiments
-- 🌱 **Learning:** A fast learner, always exploring new trends and embracing every opportunity to expand my skill set.
-- 👯 **Collaborating on:** Exciting projects and innovative ideas.
-- 📫 **Reach me:** [paluruupendra88@gmail.com](mailto:paluruupendra88@gmail.com)
+- 🔭 **Current Projects:** Various Open Source Initiatives & Ongoing Experiments  
+- 🌱 **Learning:** A fast learner, always exploring new trends and embracing every opportunity to expand my skill set.  
+- 👯 **Collaborating on:** Exciting projects and innovative ideas.  
+- 📫 **Reach me:** [paluruupendra88@gmail.com](mailto:paluruupendra88@gmail.com)  
 
 ---
 
@@ -22,21 +22,21 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
 <table align="center">
   <tr>
     <td align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -59,13 +59,13 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
 
 ## Projects Showcase
 
-| **Project Name**      | **Description**                                                       | **Tech Stack**                                      | **Repo**                                                               | **Live**                                                       |
-|-----------------------|-----------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
-| **MedEase WebApp**    | Disease Prediction and Specialist Recommendation System             | Python, Streamlit, Machine Learning                | [Repo](https://github.com/UpendrA-StaRK/MedEase_WebApp)                | [🔗](https://medeasewebapp-rshiqykq54d4cgj4285ahp.streamlit.app/) |
-| **AI-Powered Size Chart Generator** | AI-driven apparel size chart generator for sellers   | Python, Streamlit, Machine Learning, Clustering    | [Repo](https://github.com/UpendrA-StaRK/Flipkart-Grid-6.0/)  | [🔗](https://upendra-stark-flipkart-grid-6-0-app-3qsoh7.streamlit.app/) |
-| **Project Gamma**     | A mobile app focused on enhancing Z experiences.                      | Flutter, Firebase                                  | [Repo](https://github.com/UpendrA-StaRK/ProjectGamma)                    | [🔗](https://projectgamma.example.com)                    |
-
-_For more projects, visit my [GitHub repositories](https://github.com/UpendrA-StaRK)._
+| **Project Name**                           | **Description**                                                       | **Tech Stack**                                      | **Repo**                                                               | **Live**                                                       |
+|-------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
+| **MedEase WebApp**                         | Disease Prediction and Specialist Recommendation System              | Python, Streamlit, Machine Learning                | [Repo](https://github.com/UpendrA-StaRK/MedEase_WebApp)                | [🔗](https://medeasewebapp-rshiqykq54d4cgj4285ahp.streamlit.app/) |
+| **AI-Powered Size Chart Generator**       | AI-driven apparel size chart generator for sellers                    | Python, Streamlit, Machine Learning, Clustering    | [Repo](https://github.com/UpendrA-StaRK/Flipkart-Grid-6.0/)  | [🔗](https://upendra-stark-flipkart-grid-6-0-app-3qsoh7.streamlit.app/) |
+| **Project Gamma: Terminal Emulator**       | A lightweight, customizable terminal emulator built with Qt and C++    | C++, QtDesigner                                    | [Repo](https://github.com/UpendrA-StaRK/Term_Emulator)                 | 🚀 N/A |
+  
+_For more projects, visit my [GitHub repositories](https://github.com/UpendrA-StaRK)._  
 
 ---
 
