@@ -16,7 +16,6 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
 - 📫 **Reach me:** [paluruupendra88@gmail.com](mailto:paluruupendra88@gmail.com)  
 
 ---
-
 <table align="center">
   <tr>
     <td align="center">
@@ -31,7 +30,7 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -52,6 +51,7 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
     </td>
   </tr>
 </table>
+
 
 
 ## Projects Showcase
