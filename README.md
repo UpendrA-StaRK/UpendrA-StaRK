@@ -30,7 +30,7 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="AI & ML" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
