@@ -64,5 +64,3 @@ _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-St
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-
-<p align="center"><em>Crafted with ❤️, passion, and modern tech. Enjoy your stay!</em></p>
