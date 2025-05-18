@@ -21,14 +21,12 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
 
 ## Projects Showcase
 
-## Projects Showcase
-
 | **Project Name**                           | **Description**                                                       | **Tech Stack**                                      | **Repo**                                                               | **Live**                                                       |
 |-------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
-| **MedEase WebApp**                         | Disease Prediction and Specialist Recommendation System              | Python, Streamlit, Machine Learning                | [Repo](https://github.com/UpendrA-StaRK/MedEase_WebApp)                | [🔗](https://medeasewebapp-rshiqykq54d4cgj4285ahp.streamlit.app/) |
+| **TaxEase**                               | Automated tax filing and financial planning platform | Python, React, Meta LLaMA, EasyOCR, OpenCV         | [Repo](https://github.com/UpendrA-StaRK/TaxEase)                      | [🔗](https://taxease-ai.vercel.app/) |
+| **MedEase WebApp**                         | Disease Prediction and Specialist Recommendation System              | Python, Web Scraping, Machine Learning                 | [Repo](https://github.com/UpendrA-StaRK/MedEase_WebApp)                | [🔗](https://medeasewebapp-rshiqykq54d4cgj4285ahp.streamlit.app/) |
 | **AI-Powered Size Chart Generator**       | AI-driven apparel size chart generator for sellers                    | Python, Streamlit, Machine Learning, Clustering    | [Repo](https://github.com/UpendrA-StaRK/Flipkart-Grid-6.0/)            | [🔗](https://upendra-stark-flipkart-grid-6-0-app-3qsoh7.streamlit.app/) |
 | **Terminal Emulator**                     | A lightweight, customizable terminal emulator built with Qt and C++  | C++, QtDesigner                                    | [Repo](https://github.com/UpendrA-StaRK/Term_Emulator)                 | N/A |
-| **TaxEase**                               | Automated tax filing and financial planning platform (Under Development) | Python, React, Meta LLaMA, EasyOCR, OpenCV                | [Repo](https://github.com/UpendrA-StaRK/TaxEase)                      | [🔗](https://taxease-ai.vercel.app/)|
   
 _For more projects, visit my [GitHub repositories](https://github.com/UpendrA-StaRK)._  
 
