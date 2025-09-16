@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a passionate developer with a deep interest in open source and cutting-edge technologies. I enjoy designing robust digital solutions and exploring new trends. I’m a fast learner, always eager to expand my skill set and push creative boundaries.
+I'm a passionate developer with a deep interest in open source and cutting-edge technologies. I enjoy designing robust digital solutions and exploring new trends. I'm a fast learner, always eager to expand my skill set and push creative boundaries.
 
 - 🔭 **Current Projects:**  The MAPS of NIT DURGAPUR (Under Development) 
 - 🌱 **Learning:** A fast learner, always exploring new trends and embracing every opportunity to expand my skill set.  
@@ -61,6 +61,7 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
 |-------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------|
 | [**TaxEase**](https://github.com/UpendrA-StaRK/TaxEase) | Automated tax filing and financial planning platform | Python, React, Meta LLaMA, OpenCV         | [🔗](https://taxease-ai.vercel.app/) |
 | [**MedEase WebApp**](https://github.com/UpendrA-StaRK/MedEase_WebApp) | Disease Prediction and Specialist Recommendation System | Python, Web Scraping, Machine Learning | [🔗](https://medeasewebapp-rshiqykq54d4cgj4285ahp.streamlit.app/) |
+| [**Whole Slide Imaging System**](https://github.com/UpendrA-StaRK/Whole-Slide-Imaging-System) | Advanced imaging system for microscopic slide analysis | Python, TensorFlow, OpenCV | N/A |
 | [**AI-Powered Size Chart Generator**](https://github.com/UpendrA-StaRK/Flipkart-Grid-6.0/) | AI-driven apparel size chart generator for sellers | Python, Streamlit, Machine Learning | [🔗](https://upendra-stark-flipkart-grid-6-0-app-3qsoh7.streamlit.app/) |
 | [**Terminal Emulator**](https://github.com/UpendrA-StaRK/Term_Emulator) | A lightweight, customizable terminal emulator built with Qt and C++ | C++, QtDesigner | N/A |
   
