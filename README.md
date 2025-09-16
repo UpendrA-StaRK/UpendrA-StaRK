@@ -55,7 +55,7 @@ I'm a passionate developer with a deep interest in open source and cutting-edge 
 
 
 
-## Projects Showcase
+## Projects 
 
 | **Project Name**                           | **Description**                                                       | **Tech Stack**                                      | **Live**                                                       |
 |-------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------|
